@@ -1,0 +1,9 @@
+.DS_Store
+**/.DS_Store
+
+processed/
+
+__pycache__/
+*.py[cod]
+
+.claude/settings.local.json
