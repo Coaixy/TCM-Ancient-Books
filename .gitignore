@@ -1,7 +1,8 @@
 .DS_Store
 **/.DS_Store
 
-processed/
+processed/topics/chunks.jsonl
+processed/topics/cleaned/
 
 __pycache__/
 *.py[cod]

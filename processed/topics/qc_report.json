@@ -1,0 +1,40 @@
+{
+  "topic_file_count": 231,
+  "canonical_document_count": 194,
+  "document_count": 195,
+  "chunk_count": 66580,
+  "multi_topic_document_count": 28,
+  "unmatched_topic_files": [],
+  "duplicate_source_filenames": {},
+  "missing_author_count": 54,
+  "missing_dynasty_count": 56,
+  "missing_year_count": 62,
+  "avg_chunk_chars": 455.78,
+  "oversized_chunk_count": 0,
+  "doc_type_counts": {
+    "ocr_text": 194,
+    "structured_reference": 1
+  },
+  "cleaning_totals": {
+    "literal_escape_markers_removed": 127400,
+    "backslashes_normalized": 27179,
+    "merged_line_breaks": 827469,
+    "image_placeholders_removed": 4483,
+    "control_chars_removed": 1425
+  },
+  "topic_chunk_counts": {
+    "01-中医食疗": 25891,
+    "02-穴位应用": 6486,
+    "03-中医运动": 2152,
+    "04-作息与情绪管理": 4576,
+    "05-慢病管理": 28348,
+    "06-体重管理": 3680,
+    "07-中医体质调养": 4429
+  },
+  "output_files": {
+    "documents": "processed/topics/documents.jsonl",
+    "chunks": "processed/topics/chunks.jsonl",
+    "cleaned_dir": "processed/topics/cleaned",
+    "topic_chunk_files_parent": "processed/topics"
+  }
+}
