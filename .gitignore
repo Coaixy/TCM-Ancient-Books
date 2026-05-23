@@ -3,6 +3,9 @@
 
 processed/topics/chunks.jsonl
 processed/topics/cleaned/
+processed/topics/*.jsonl
+processed/topics/*.json
+!processed/topics/*.gz
 
 __pycache__/
 *.py[cod]
