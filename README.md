@@ -36,6 +36,7 @@
 - `BOOK_CLASSIFICATION.md` 用于查看全量书目的粗分类。
 - `BOOK_INDEX_AZ.md` 用于按拼音首字母检索书目，并链接到 `原文/` 下对应文本。
 - `TOPIC_SUBDIVISION.md` 用于查看专题候选和精选清单。
+- `processed/topics/README.md` 用于查看专题语料产物、压缩文件说明与解压方法。
 
 ## 注意
 
