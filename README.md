@@ -38,6 +38,10 @@
 - `TOPIC_SUBDIVISION.md` 用于查看专题候选和精选清单。
 - `processed/topics/README.md` 用于查看专题语料产物、压缩文件说明与解压方法。
 
+## 鸣谢
+
+- 本项目大部分书籍来自 [ZouJiu1/TCM-Ancient-Books](https://github.com/ZouJiu1/TCM-Ancient-Books)，特此致谢。
+
 ## 注意
 
 部分 OCR 文本可能存在错字、缺段、残本或版本不明等问题，严肃引用前需要人工校对。
